@@ -13,7 +13,7 @@ node index.js
 npm start
 ```
 
-### On Database
+### On Database (using PostGreSQL)
 ```
 CREATE DATABASE todo;
 
